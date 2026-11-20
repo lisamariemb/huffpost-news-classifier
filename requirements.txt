@@ -1,0 +1,10 @@
+tensorflow==2.19.0
+keras==3.13.2
+keras-hub
+datasets
+transformers
+scikit-learn
+pandas
+numpy
+matplotlib
+jupyter
